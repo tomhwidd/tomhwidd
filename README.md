@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomhwidd
-- 👀 I’m interested in Astrophysics and Cosmology simulations. 
+- 👀 I’m interested in Astrophysics and Cosmology. 
 - 🌱 I’m currently learning the absolute basics!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
