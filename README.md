@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tomhwidd
+- 👋 Hi, I’m Tom W
 - 👀 I’m interested in Astrophysics and Cosmology. 
 - 🌱 I’m currently learning the absolute basics!
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ...
+- 📫 email: tomhwidd@gmail.com Discord: tomwidd
 - ⚡ Fun fact: ...
 
 <!---
